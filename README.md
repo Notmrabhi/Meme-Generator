@@ -16,5 +16,5 @@ Overall, the combination of React, Vite, and the Imgflip API results in a powerf
 
 ### DEMO
 
-![Alt Text](https://github.com/Notmrabhi/Meme-Generator/assets/110781004/ea667f12-4341-4a1d-922b-dc9ccfe122c8)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
