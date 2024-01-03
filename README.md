@@ -14,7 +14,7 @@ The integration involves making asynchronous requests to the Imgflip API to retr
 Overall, the combination of React, Vite, and the Imgflip API results in a powerful and user-friendly Meme Generator that combines modern front-end technologies with external services to deliver a fun and engaging experience.
 
 
-###DEMO
+### DEMO
 
-![](https://github.com/Notmrabhi/Meme-Generator/assets/110781004/ea667f12-4341-4a1d-922b-dc9ccfe122c8)
+![Alt Text](https://github.com/Notmrabhi/Meme-Generator/assets/110781004/ea667f12-4341-4a1d-922b-dc9ccfe122c8)
 
